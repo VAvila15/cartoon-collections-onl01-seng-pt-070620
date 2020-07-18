@@ -5,6 +5,7 @@ def roll_call_dwarves(array)
 end
 
 def summon_captain_planet(planeteer_calls)
+  new_array =[]
   planeteer_calls.each do |element|
     
 end
