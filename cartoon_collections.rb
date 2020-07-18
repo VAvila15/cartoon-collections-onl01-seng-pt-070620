@@ -7,7 +7,7 @@ end
 def summon_captain_planet(veggies)
   new_array = []
   veggies.join("!")
-  new_array << 
+  new_array << veggies.case
 end
 
 def long_planeteer_calls# code an argument here
