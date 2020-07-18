@@ -7,10 +7,7 @@ end
 def summon_captain_planet(veggies)
   new_array = []
   veggies.join("!")
-  while veggies.length > 0
-    new_array << "veggies".upcase
-  end
-  new_array
+  new_array << "veggies".upcase
 end
 
 def long_planeteer_calls# code an argument here
