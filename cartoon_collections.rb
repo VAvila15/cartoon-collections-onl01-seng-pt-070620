@@ -4,8 +4,8 @@ def roll_call_dwarves(array)
   end
 end
 
-def summon_captain_planet(planeteer)
-  planeteer.each do |element|
+def summon_captain_planet(planeteer_calls)
+  planeteer_calls.each do |element|
     
 end
 
