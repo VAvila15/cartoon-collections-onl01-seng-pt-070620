@@ -7,7 +7,7 @@ end
 def summon_captain_planet(veggies)
   new_array = []
   veggies.join("!")
-  while i < veggies.length
+  while veggies.length
     new_array << "veggies".upcase
   end
   new_array
