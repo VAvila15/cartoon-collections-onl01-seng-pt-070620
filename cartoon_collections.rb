@@ -5,7 +5,7 @@ def roll_call_dwarves(array)
 end
 
 def summon_captain_planet(veggies)
-  veggies.each do |veggies|
+  veggies.each do |name|
 end
 
 def long_planeteer_calls# code an argument here
