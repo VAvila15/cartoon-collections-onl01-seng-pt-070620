@@ -6,10 +6,10 @@ end
 
 def summon_captain_planet(planeteer_calls)
   new_array =[]
-  planeteer_calls.each do |calls|
-    
-    
-    
+  planeteer_calls.join("!")
+    new_array << planeteer_calls.upcase
+  end
+  new_array
 end
 
 def long_planeteer_calls# code an argument here
