@@ -4,10 +4,8 @@ def roll_call_dwarves(array)
   end
 end
 
-def summon_captain_planet(planeteer_calls)
-  new_array =[]
-  planeteer_calls.join("!")
-    new_array << planeteer_calls.upcase
+def summon_captain_planet(veggies)
+  veggies.each do |i|
 end
 
 def long_planeteer_calls# code an argument here
