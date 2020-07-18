@@ -6,7 +6,9 @@ end
 
 def summon_captain_planet(planeteer_calls)
   new_array =[]
-  planeteer_calls.each do |i|
+  planeteer_calls.each do |calls|
+    
+    
     
 end
 
